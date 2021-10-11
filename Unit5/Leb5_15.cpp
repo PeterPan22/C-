@@ -3,9 +3,11 @@
 #include <iomanip>
 using namespace std;
 // Define prototype function
+
 void DisplayMenu();
 float Area(const float Radius);
 float Area(const float Length, const float Widht);
+
 int main()
 {
     char Choice;

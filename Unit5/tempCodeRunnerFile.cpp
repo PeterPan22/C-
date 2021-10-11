@@ -1,2 +1,3 @@
 
-        else cout << Ch << " is digit";
+    cout << "Enter string : ";
+    cin >> Name;
